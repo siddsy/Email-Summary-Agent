@@ -17,7 +17,7 @@ This workflow:
 
 ##  Workflow Preview
 
-![Workflow Overview](./Images/Email-n8n.png)
+![Workflow Overview](./Images/n8nworkflow.png)
 
 > 💡 You can manually run this workflow or schedule it to execute automatically (e.g., every morning at 9 AM).
 
